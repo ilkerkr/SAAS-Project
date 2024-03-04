@@ -10,19 +10,6 @@
   }
 }
 
-.svg{
-    &__color{
-        fill: var(--first-color);
-    }
-    &__blob{
-        fill: var(--first-color-light);
-    }
-    &__img{
-        width: 300px;
-        justify-self: center;
-    }
-}
-
 .container {
     max-width: 968px;
     margin-left: var(--mb-1-5);
