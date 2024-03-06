@@ -37,9 +37,9 @@ SAAS-Project (folder)
                 |----services.scss
             |----config (folder)
                 |----variables.scss
-            layout (folder)
+            |----layout (folder)
                 |----layout.scss
-            theme (folder)
+            |----theme (folder)
                 |----theme.scss
-            img (folder)
+        |----img (folder)
 ```
