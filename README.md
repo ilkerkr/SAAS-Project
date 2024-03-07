@@ -1,5 +1,7 @@
 <h1>DELİVERY</h1>
 
+![Delivery-gif](./assets/img/Delivery.gif)
+
 [👉click here to login  Delivery](https://ilkerkr.github.io/SAAS-Project/)
 
 
